@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Pumlani Kewana</h1>
 <h3 align="center">Full-stack software developer</h3>
 
-- 🔭 I’m currently working on **Updated Personal Portfolio Website**
+- 🔭 I’m currently working on **Simple Personal Portfolio Website**
 
 - 💬 Ask me about **MERN Stack**
 
